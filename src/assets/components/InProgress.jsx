@@ -1,7 +1,7 @@
 
 const InProgress = () => {
   return (
-    <div className="inProgress">Este proyecto está en proceso :)</div>
+    <div className="inProgress">Este proyecto está en proceso</div>
   )
 }
 
