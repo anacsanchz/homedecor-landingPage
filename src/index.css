@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: darkgray;
+}
+
+.inProgress{
+  background-color: #eb7025a6;
+  text-align: center;
+  padding: 10px 0;
+  color: white;
+}
